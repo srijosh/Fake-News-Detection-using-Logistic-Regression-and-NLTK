@@ -9,11 +9,7 @@ This repository contains a project for detecting fake news articles using a Logi
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model](#model)
-- [Code](#code)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction
 
